@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Jekyll Bootstrap</title>
+  <link href="http://narkisr.github.com/lambda-pod/atom.xml" rel="self"/>
+  <link href="http://narkisr.github.com/lambda-pod"/>
+  <updated>2012-04-14T00:25:08+03:00</updated>
+  <id>http://narkisr.github.com/lambda-pod</id>
+  <author>
+    <name>Name Lastname</name>
+    <email>blah@email.test</email>
+  </author>
+
+  
+  <entry>
+    <title>Lambda Pod Introduction Episode</title>
+    <link href="http://narkisr.github.com/lambda-pod/episode/2012/04/13/lambda-pod-introduction-episode"/>
+    <updated>2012-04-13T00:00:00+03:00</updated>
+    <id>http://narkisr.github.com/lambda-pod/episode/2012/04/13/lambda-pod-introduction-episode</id>
+    <content type="html">&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Lambda pod is a new podcast the aims to cover programming lagunages news, interviews and topics&lt;/p&gt;
+&lt;hr /&gt;</content>
+  </entry>
+  
+
+</feed>
