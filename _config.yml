@@ -9,14 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Lambda pod
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  github : narkisr
+  twitter : https://twitter.com/#!/saylambda 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

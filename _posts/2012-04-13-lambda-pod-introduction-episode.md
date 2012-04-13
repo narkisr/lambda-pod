@@ -8,7 +8,11 @@ description: |
 
 ## Overview 
 
-Lambda pod is a new podcast the aims to cover programming lagunages news, interviews and topics 
+This is our first episode! in it we cover:
+
+ * We introduce ourself and why <b>Lambda pod</b> has a right to exist
+ * Whats kept us busy: Yardena talked about her first Groovy experience and using Easyb, Iv talked about Gelfino and the s-exp to l-exp compiler.
+
 
 ---
 
