@@ -6,8 +6,8 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Sat, 14 Apr 2012 00:31:29 +0300</pubDate>
-    <lastBuildDate>Sat, 14 Apr 2012 00:31:29 +0300</lastBuildDate>
+    <pubDate>Sat, 14 Apr 2012 01:14:02 +0300</pubDate>
+    <lastBuildDate>Sat, 14 Apr 2012 01:14:02 +0300</lastBuildDate>
 
     
     <item>
@@ -18,8 +18,19 @@
       <guid>/episode/2012/04/13/lambda-pod-introduction-episode</guid>
       <description>&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Lambda pod is a new podcast the aims to cover programming lagunages news, interviews and topics&lt;/p&gt;
-&lt;hr /&gt;</description>
+&lt;p&gt;This is our first episode! in it we cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction and why &lt;b&gt;Lambda pod&lt;/b&gt; has a right to exist.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Whats kept us busy: Yardena talked about her first &lt;a href='http://groovy.codehaus.org/'&gt;Groovy&lt;/a&gt; experience and using &lt;a href='http://www.easyb.org/'&gt;Easyb&lt;/a&gt;, Ronen mentioned &lt;a href='https://github.com/narkisr/gelfino'&gt;Gelfino&lt;/a&gt; and the s-exp to l-exp &lt;a href='https://github.com/narkisr/gelfino/blob/master/src/gelfino/drools/dsl.clj'&gt;compiler&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*&lt;/p&gt;</description>
     </item>
     
 
