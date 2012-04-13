@@ -6,8 +6,8 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Sat, 14 Apr 2012 01:28:53 +0300</pubDate>
-    <lastBuildDate>Sat, 14 Apr 2012 01:28:53 +0300</lastBuildDate>
+    <pubDate>Sat, 14 Apr 2012 02:14:21 +0300</pubDate>
+    <lastBuildDate>Sat, 14 Apr 2012 02:14:21 +0300</lastBuildDate>
 
     
     <item>
@@ -28,9 +28,27 @@
 &lt;li&gt;
 &lt;p&gt;Whats kept us busy: Yardena talked about her first &lt;a href='http://groovy.codehaus.org/'&gt;Groovy&lt;/a&gt; experience and using &lt;a href='http://www.easyb.org/'&gt;Easyb&lt;/a&gt;, Ronen mentioned &lt;a href='https://github.com/narkisr/gelfino'&gt;Gelfino&lt;/a&gt; and the s-exp to l-exp &lt;a href='https://github.com/narkisr/gelfino/blob/master/src/gelfino/drools/dsl.clj'&gt;compiler&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;*&lt;/p&gt;</description>
+&lt;li&gt;
+&lt;p&gt;Interview with &lt;a href='http://www.iulidragos.org/'&gt;Iulian Dragos&lt;/a&gt; of &lt;a href='http://typesafe.com/'&gt;typesafe&lt;/a&gt; about Scala, it IDE support and the community in general.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Our impressions of the &lt;a href='url'&gt;edge&lt;/a&gt; Java conference, meeting Tim Berglund and Ronen&amp;#8217;s work on &lt;a href='https://github.com/narkisr/groovy-liquibase'&gt;liquibase dsl&lt;/a&gt; and &lt;a href='https://github.com/narkisr/gradle-liquibase-plugin'&gt;Gradle plugin&lt;/a&gt;, Yardena impression of time travel debugger and meeting Iulian.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;a href='http://datomic.com/'&gt;datomic&lt;/a&gt; is out, uses datalog as query language, has a unique approach to data persistency and caching.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Scala macros &lt;a href='http://blog.empathybox.com/post/19126121307/scala-macros-oh-god-why'&gt;controversy&lt;/a&gt; and Odersky’s &lt;a href='https://groups.google.com/forum/?hl=en&amp;amp;fromgroups#!msg/scala-language/PV4q6O1qIh8/yG4p8PA2Jf8J'&gt;response&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Golang first version &lt;a href='http://blog.golang.org/2012/03/go-version-1-is-released.html'&gt;out&lt;/a&gt;, the next sayeret talk will be on golang, Dart will follow&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
 
