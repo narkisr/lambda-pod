@@ -6,8 +6,8 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Sat, 14 Apr 2012 23:39:08 +0300</pubDate>
-    <lastBuildDate>Sat, 14 Apr 2012 23:39:08 +0300</lastBuildDate>
+    <pubDate>Sun, 15 Apr 2012 02:17:50 +0300</pubDate>
+    <lastBuildDate>Sun, 15 Apr 2012 02:17:50 +0300</lastBuildDate>
 
     
     <item>
@@ -30,11 +30,11 @@
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;Interview with &lt;a href='http://www.iulidragos.org/'&gt;Iulian Dragos&lt;/a&gt; of &lt;a href='http://typesafe.com/'&gt;typesafe&lt;/a&gt; about Scala, it IDE support and the community in general.&lt;/p&gt;
+&lt;p&gt;Interview with &lt;a href='http://www.iulidragos.org/'&gt;Iulian Dragos&lt;/a&gt; of &lt;a href='http://typesafe.com/'&gt;Typesafe&lt;/a&gt; about Scala, it IDE support and the community in general.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;Our impressions of the &lt;a href='url'&gt;edge&lt;/a&gt; Java conference, meeting Tim Berglund and Ronen&amp;#8217;s work on &lt;a href='https://github.com/narkisr/groovy-liquibase'&gt;liquibase dsl&lt;/a&gt; and &lt;a href='https://github.com/narkisr/gradle-liquibase-plugin'&gt;Gradle plugin&lt;/a&gt;, Yardena impression of time travel debugger and meeting Iulian.&lt;/p&gt;
+&lt;p&gt;Our impressions of the Edge Java conference, meeting Tim Berglund and Ronen&amp;#8217;s work on &lt;a href='http://www.liquibase.org/'&gt;Liquibase&lt;/a&gt; &lt;a href='https://github.com/narkisr/groovy-liquibase'&gt;Dsl&lt;/a&gt; and &lt;a href='https://github.com/narkisr/gradle-liquibase-plugin'&gt;Gradle plugin&lt;/a&gt;, Yardena impression of time travel debugger and meeting Iulian.&lt;/p&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
@@ -46,7 +46,7 @@
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;p&gt;Golang first version &lt;a href='http://blog.golang.org/2012/03/go-version-1-is-released.html'&gt;out&lt;/a&gt;, the next sayeret talk will be on golang, Dart will follow&lt;/p&gt;
+&lt;p&gt;Golang first version &lt;a href='http://blog.golang.org/2012/03/go-version-1-is-released.html'&gt;out&lt;/a&gt;, the next sayeret talk will be on &lt;a href='http://www.meetup.com/saylambda/events/59049672/'&gt;Golang&lt;/a&gt;, &lt;a href='http://www.meetup.com/saylambda/events/59822632/'&gt;Dart&lt;/a&gt; Dart will follow&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
