@@ -23,6 +23,6 @@ This is our first [episode!](http://dl.dropbox.com/u/116845/lambda-pod-1.mp3) in
 
  * Scala macros [controversy](http://blog.empathybox.com/post/19126121307/scala-macros-oh-god-why) and Odersky’s [response](https://groups.google.com/forum/?hl=en&fromgroups#!msg/scala-language/PV4q6O1qIh8/yG4p8PA2Jf8J)
  
- * Golang first version [out](http://blog.golang.org/2012/03/go-version-1-is-released.html), the next sayeret talk will be on [Golang](http://www.meetup.com/saylambda/events/59049672/), [Dart](http://www.meetup.com/saylambda/events/59822632/) Dart will follow
+ * Golang first version [out](http://blog.golang.org/2012/03/go-version-1-is-released.html), the next sayeret talk will be on [Golang](http://www.meetup.com/saylambda/events/59049672/), [Dart](http://www.meetup.com/saylambda/events/59822632/) will follow.
 
 
