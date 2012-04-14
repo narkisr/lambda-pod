@@ -8,7 +8,7 @@ description: |
 
 ## Overview 
 
-This is our first [episode!](http://dl.dropbox.com/u/116845/lambda-pod-1.mp3) in it we cover:
+This is our first [episode!](http://dl.dropbox.com/u/116845/lambda-pod-1-v2.mp3) in it we cover:
 
  * Introduction and why <b>Lambda pod</b> has a right to exist.
 
