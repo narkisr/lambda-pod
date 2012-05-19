@@ -8,4 +8,5 @@ http://narkisr.github.com/lambda-pod/pages.html
 http://narkisr.github.com/lambda-pod/categories.html
 http://narkisr.github.com/lambda-pod/sitemap.txt
 
+http://narkisr.github.com/lambda-pod/episode/2012/05/13/lambda-pod-dart-episode
 http://narkisr.github.com/lambda-pod/episode/2012/04/13/lambda-pod-introduction-episode

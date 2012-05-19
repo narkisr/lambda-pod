@@ -6,9 +6,30 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Sun, 15 Apr 2012 05:55:06 +0300</pubDate>
-    <lastBuildDate>Sun, 15 Apr 2012 05:55:06 +0300</lastBuildDate>
+    <pubDate>Sat, 19 May 2012 19:47:10 +0300</pubDate>
+    <lastBuildDate>Sat, 19 May 2012 19:47:10 +0300</lastBuildDate>
 
+    
+    <item>
+      <title>Lambda Pod Dart Episode</title>
+      <link>/episode/2012/05/13/lambda-pod-dart-episode</link>
+      <pubDate>Sun, 13 May 2012 00:00:00 +0300</pubDate>
+      <author>narkisr@narkisr.com</author>
+      <guid>/episode/2012/05/13/lambda-pod-dart-episode</guid>
+      <description>&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This is our second &lt;a href='http://dl.dropbox.com/u/116845/lambda-pod-2.mp3'&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interview with &lt;a href='http://bracha.org/Site/Home.html'&gt;Gilad Bracha&lt;/a&gt; of &lt;a href='http://google.com/'&gt;Google&lt;/a&gt; about Dart, his ideas about programming languages and types in particular, Gilad mentioned &lt;a href='http://www.strongtalk.org/'&gt;Strongtalk&lt;/a&gt; and &lt;a href='http://newspeaklanguage.org/'&gt;Newspeak&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;In the news we covered: &lt;a href='https://github.com/clojure/clojure/blob/master/changes.md'&gt;Clojure 1.4&lt;/a&gt;, &lt;a href='http://www.kickstarter.com/projects/306316578/light-table'&gt;light table&lt;/a&gt;, &lt;a href='http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012'&gt;Lang.NEXT&lt;/a&gt; and &lt;a href='https://vimeo.com/38994805'&gt;Ruby GC&lt;/a&gt; talk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Lambda Pod Introduction Episode</title>
