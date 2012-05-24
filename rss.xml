@@ -6,8 +6,8 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Sat, 19 May 2012 19:47:10 +0300</pubDate>
-    <lastBuildDate>Sat, 19 May 2012 19:47:10 +0300</lastBuildDate>
+    <pubDate>Fri, 25 May 2012 00:40:09 +0300</pubDate>
+    <lastBuildDate>Fri, 25 May 2012 00:40:09 +0300</lastBuildDate>
 
     
     <item>
@@ -27,6 +27,10 @@
 
 &lt;li&gt;
 &lt;p&gt;In the news we covered: &lt;a href='https://github.com/clojure/clojure/blob/master/changes.md'&gt;Clojure 1.4&lt;/a&gt;, &lt;a href='http://www.kickstarter.com/projects/306316578/light-table'&gt;light table&lt;/a&gt;, &lt;a href='http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012'&gt;Lang.NEXT&lt;/a&gt; and &lt;a href='https://vimeo.com/38994805'&gt;Ruby GC&lt;/a&gt; talk.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Reversim (an awesome podcast) hosted Ido Green about Dart from the users perspective, grab it &lt;a href='http://www.reversim.com/2012/05/140-dart-with-ido-green.html'&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
