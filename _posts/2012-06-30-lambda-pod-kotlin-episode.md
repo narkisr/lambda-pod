@@ -22,6 +22,8 @@ This is our third [episode!](http://dl.dropbox.com/u/116845/lambda-pod-3.mp3) in
 
     [Akka 2.2 roadmap](https://docs.google.com/document/pub?id=1CMz_MEQA8oPcGw9oaFdq_KYYFB_5qZjsDYYwuXfZhBU&pli=1).
 
+    [hash32](http://permalink.gmane.org/gmane.comp.java.openjdk.core-libs.devel/10361)
+
     [Dart start](https://github.com/lvivski/start) web server.
 
     [Ruby under microscope](http://patshaughnessy.net/2012/5/9/one-chapter-from-my-upcoming-ebook-ruby-under-a-microscope) ebook.
