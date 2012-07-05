@@ -6,9 +6,50 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Fri, 25 May 2012 00:40:09 +0300</pubDate>
-    <lastBuildDate>Fri, 25 May 2012 00:40:09 +0300</lastBuildDate>
+    <pubDate>Thu, 05 Jul 2012 04:29:13 +0300</pubDate>
+    <lastBuildDate>Thu, 05 Jul 2012 04:29:13 +0300</lastBuildDate>
 
+    
+    <item>
+      <title>Lambda Pod Kotlin Episode</title>
+      <link>/episode/2012/07/05/lambda-pod-kotlin-episode</link>
+      <pubDate>Thu, 05 Jul 2012 00:00:00 +0300</pubDate>
+      <author>narkisr@narkisr.com</author>
+      <guid>/episode/2012/07/05/lambda-pod-kotlin-episode</guid>
+      <description>&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This is our third &lt;a href='http://dl.dropbox.com/u/116845/lambda-pod-3.mp3'&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interview with &lt;a href='http://devnet.jetbrains.com/people/abreslav;jsessionid=1887C0AA73178CF271699AE9328192DE'&gt;Andery Breslav&lt;/a&gt; from jetbrains about &lt;a href='http://confluence.jetbrains.net/display/Kotlin/Welcome'&gt;Kotlin&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://aws.amazon.com/elasticmapreduce/'&gt;Amazon EMR&lt;/a&gt;, &lt;a href='https://github.com/alexott/clojure-hadoop'&gt;clojure hadoop&lt;/a&gt; for writing jobs and &lt;a href='https://github.com/TheClimateCorporation/lemur'&gt;lemur&lt;/a&gt; for launching and configuring jobs, &lt;a href='http://fog.io/1.4.0/index.html'&gt;fog&lt;/a&gt; for ec2 scripting.&lt;/p&gt;
+
+&lt;p&gt;Yardena Scala ILtech &lt;a href=''&gt;talk&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;In the news we covered:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='https://docs.google.com/document/pub?id=1CMz_MEQA8oPcGw9oaFdq_KYYFB_5qZjsDYYwuXfZhBU&amp;amp;pli=1'&gt;Akka 2.2 roadmap&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://permalink.gmane.org/gmane.comp.java.openjdk.core-libs.devel/10361'&gt;hash32&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='https://github.com/lvivski/start'&gt;Dart start&lt;/a&gt; web server.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://patshaughnessy.net/2012/5/9/one-chapter-from-my-upcoming-ebook-ruby-under-a-microscope'&gt;Ruby under microscope&lt;/a&gt; ebook.&lt;/p&gt;
+
+&lt;p&gt;Gilad notes on &lt;a href='http://gbracha.blogspot.co.il/2012/06/source-control-freak.html'&gt;SCM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='https://github.com/luvit/luvit/'&gt;luvit&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Lambda Pod Dart Episode</title>
