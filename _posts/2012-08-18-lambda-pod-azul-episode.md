@@ -8,7 +8,7 @@ description: |
 
 ## Overview 
 
-This is our forth [episode!]() in it we cover:
+This is our forth [episode!](http://dl.dropbox.com/u/116845/lambda-pod-4.mp3) in it we cover:
 
  * Interview with [Gil Tene](http://www.azulsystems.com/blog/author/gil) from Azul systems about GC.
 
