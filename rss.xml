@@ -6,9 +6,38 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Thu, 05 Jul 2012 04:29:13 +0300</pubDate>
-    <lastBuildDate>Thu, 05 Jul 2012 04:29:13 +0300</lastBuildDate>
+    <pubDate>Thu, 30 Aug 2012 04:00:30 +0300</pubDate>
+    <lastBuildDate>Thu, 30 Aug 2012 04:00:30 +0300</lastBuildDate>
 
+    
+    <item>
+      <title>Lambda Pod Azul Episode</title>
+      <link>/episode/2012/08/18/lambda-pod-azul-episode</link>
+      <pubDate>Sat, 18 Aug 2012 00:00:00 +0300</pubDate>
+      <author>narkisr@narkisr.com</author>
+      <guid>/episode/2012/08/18/lambda-pod-azul-episode</guid>
+      <description>&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This is our forth &lt;a href='http://dl.dropbox.com/u/116845/lambda-pod-4.mp3'&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interview with &lt;a href='http://www.azulsystems.com/blog/author/gil'&gt;Gil Tene&lt;/a&gt; from Azul systems about GC.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+
+&lt;p&gt;Yardena used &lt;a href='http://cloudfoundry.org/'&gt;Cloud Foundry&lt;/a&gt; and &lt;a href='http://docs.cloudfoundry.com/tools/vmc/installing-vmc.html/'&gt;VMC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ronen used &lt;a href='http://aws.amazon.com/cloudsearch/'&gt;cloudsearch&lt;/a&gt; and released &lt;a href='https://github.com/gingersoftware/cloujsearch'&gt;Cloujsearch&lt;/a&gt;, &lt;a href='https://github.com/rplevy/swiss-arrows'&gt;swiss arrows&lt;/a&gt; and &lt;a href='https://github.com/hugoduncan/criterium'&gt;criterium&lt;/a&gt; were mentioned too.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;In the news we covered:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Lambda Pod Kotlin Episode</title>
