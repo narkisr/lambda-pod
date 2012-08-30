@@ -6,8 +6,8 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Thu, 30 Aug 2012 04:00:30 +0300</pubDate>
-    <lastBuildDate>Thu, 30 Aug 2012 04:00:30 +0300</lastBuildDate>
+    <pubDate>Thu, 30 Aug 2012 04:12:12 +0300</pubDate>
+    <lastBuildDate>Thu, 30 Aug 2012 04:12:12 +0300</lastBuildDate>
 
     
     <item>
@@ -35,6 +35,12 @@
 
 &lt;li&gt;
 &lt;p&gt;In the news we covered:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.infoq.com/articles/new-groovy-20'&gt;Groovy 2.0&lt;/a&gt;, &lt;a href='http://joxa.org/'&gt;Joxa&lt;/a&gt;, project Jigsaw &lt;a href='http://www.infoworld.com/d/application-development/project-jigsaw-delayed-until-java-9-198007'&gt;delayed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Open source Architecture &lt;a href='http://www.aosabook.org/en/nginx.html'&gt;Nginx&lt;/a&gt; chapter.&lt;/p&gt;
+
+&lt;p&gt;Akka &lt;a href='https://github.com/eligosource/eventsourced'&gt;eventsource&lt;/a&gt; library.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
