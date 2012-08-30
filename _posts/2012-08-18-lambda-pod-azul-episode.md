@@ -20,4 +20,9 @@ This is our forth [episode!](http://dl.dropbox.com/u/116845/lambda-pod-4.mp3) in
 
  * In the news we covered: 
 
+   [Groovy 2.0](http://www.infoq.com/articles/new-groovy-20), [Joxa](http://joxa.org/), project Jigsaw [delayed](http://www.infoworld.com/d/application-development/project-jigsaw-delayed-until-java-9-198007). 
+
+   Open source Architecture [Nginx](http://www.aosabook.org/en/nginx.html) chapter.
+ 
+   Akka [eventsource](https://github.com/eligosource/eventsourced) library.
 
