@@ -6,9 +6,56 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Thu, 30 Aug 2012 04:12:12 +0300</pubDate>
-    <lastBuildDate>Thu, 30 Aug 2012 04:12:12 +0300</lastBuildDate>
+    <pubDate>Fri, 26 Oct 2012 04:05:02 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2012 04:05:02 +0200</lastBuildDate>
 
+    
+    <item>
+      <title>Lambda Pod Yesod Episode</title>
+      <link>/episode/2012/10/26/lambda-pod-yesod-episode</link>
+      <pubDate>Fri, 26 Oct 2012 00:00:00 +0200</pubDate>
+      <author>narkisr@narkisr.com</author>
+      <guid>/episode/2012/10/26/lambda-pod-yesod-episode</guid>
+      <description>&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This is our fifth &lt;a href='http://dl.dropbox.com/u/116845/lambda-pod-5.mp3'&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interview with &lt;a href='http://www.snoyman.com/'&gt;Michael Snoyman&lt;/a&gt; Lead developer of the &lt;a href='http://www.yesodweb.com/'&gt;Yesod&lt;/a&gt; Web Framework.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+
+&lt;p&gt;Yardena explored rabbitmq channel &lt;a href='http://stackoverflow.com/questions/7840283/how-can-queues-be-made-private-secure-in-rabbitmq-in-a-multitenancy-system'&gt;security&lt;/a&gt; and &lt;a href='https://www.coursera.org/course/progfun'&gt;Scala&lt;/a&gt; online course.&lt;/p&gt;
+
+&lt;p&gt;Ronen worked on &lt;a href='https://github.com/narkisr/gelfino'&gt;gelfino&lt;/a&gt; and &lt;a href='https://github.com/nathanmarz/storm/wiki'&gt;storm&lt;/a&gt; &lt;a href='https://vimeo.com/51372581'&gt;integration&lt;/a&gt;, he also explored &lt;a href='https://github.com/dustin/seriesly'&gt;Seriesly&lt;/a&gt; and ported its &lt;a href='http://square.github.com/cubism/'&gt;Cubism&lt;/a&gt; horizion graphs example into Clojurescript in &lt;a href='https://github.com/narkisr/seriously'&gt;Seriously&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;In the news we covered:&lt;/p&gt;
+
+&lt;p&gt;Phil Bagwell &lt;a href='http://blog.typesafe.com/rip-phil-bagwell'&gt;passing&lt;/a&gt;, RIP.&lt;/p&gt;
+
+&lt;p&gt;New Scala projects &lt;a href='https://github.com/slick/slick'&gt;slick&lt;/a&gt;, &lt;a href='https://github.com/dickwall/subcut'&gt;subcut&lt;/a&gt; and a Google guice alternative for Android &lt;a href='https://github.com/square/dagger'&gt;dagger&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dart has entered the top 50 in &lt;a href='http://www.tiobe.com/content/paperinfo/tpci/index.html'&gt;TIOBE&lt;/a&gt; index.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://newspeaklanguage.org/'&gt;Newspeak&lt;/a&gt; is still alive and running had a relase in september.&lt;/p&gt;
+
+&lt;p&gt;Java 8 &lt;a href='http://www.infoq.com/articles/java-8-vs-scala'&gt;borrows&lt;/a&gt; a lot from Scala.&lt;/p&gt;
+
+&lt;p&gt;We will be speaking in &lt;a href='http://www.oracleweek.com/'&gt;Oracle week&lt;/a&gt;, Yardena&amp;#8217;s &lt;a href='http://www.oracleweek.com/?page=seminars&amp;amp;id=12516'&gt;Scala seminar&lt;/a&gt; and Ronen&amp;#8217;s &lt;a href='http://www.oracleweek.com/?page=seminars&amp;amp;id=12116'&gt;Clojure seminar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='https://github.com/Datomic/codeq'&gt;Codeq&lt;/a&gt; datastore for Clojure code based on git repository import, its based on &lt;a href='http://www.datomic.com/'&gt;Datomic&lt;/a&gt; which runs also on &lt;a href='http://aws.amazon.com/dynamodb/'&gt;Dynamo DB&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;JDK 8 will add OpenCL integration &lt;a href='http://www.google.com/url?q=http%3A%2F%2Fwww.extremetech.com%2Fcomputing%2F137628-project-sumatra-improves-java-performance-with-opencl-graphics-card-acceleration&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNHomdER-TzIUVrixl1N5M-FSZi-UA'&gt;built in&lt;/a&gt;, there are a couple existing projects like &lt;a href='https://github.com/pcpratts/rootbeer1'&gt;rootbeer1&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href='http://getprismatic.com/news/home'&gt;Prismatic&lt;/a&gt; has created &lt;a href='http://blog.getprismatic.com/blog/2012/10/1/prismatics-graph-at-strange-loop.html'&gt;Graph&lt;/a&gt; its not open source, &lt;a href='https://github.com/stuartsierra/flow'&gt;Flow&lt;/a&gt; is a similar open source implementation.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Lambda Pod Azul Episode</title>
