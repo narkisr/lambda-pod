@@ -1,7 +1,7 @@
 ---
 layout: post
 category : episode
-tags : [azul, gc, clojure, gil , tene , cloud-foundry, cloudsearch]
+tags : [Yesod Haskell rabbitmq scala gelfino storm slick subcut dagger dart newspeak codeq]
 description: |
   Fifth episode Yesod interview
 ---
