@@ -6,50 +6,9 @@
     <atom:link href="rss.xml" rel="self" type="application/rss+xml" />
     <description>Sayeret lambda podcast</description>
     <language>en-us</language>
-    <pubDate>Fri, 01 Feb 2013 10:55:33 +0200</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2013 10:55:33 +0200</lastBuildDate>
+    <pubDate>Fri, 26 Oct 2012 04:05:02 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2012 04:05:02 +0200</lastBuildDate>
 
-    
-    <item>
-      <title>Lambda Pod Groovy Episode</title>
-      <link>/episode/2013/01/29/lambda-pod-groovy-episode</link>
-      <pubDate>Tue, 29 Jan 2013 00:00:00 +0200</pubDate>
-      <author>narkisr@narkisr.com</author>
-      <guid>/episode/2013/01/29/lambda-pod-groovy-episode</guid>
-      <description>&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;This is our sixth &lt;a href='http://dl.dropbox.com/u/116845/lambda-pod-6.mp3'&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Interview with &lt;a href='http://glaforge.appspot.com/'&gt;Guillaume Laforge&lt;/a&gt; lead Architect of the &lt;a href='http://groovy.codehaus.org/'&gt;Groovy&lt;/a&gt; Language.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;In what we did section we cover:&lt;/p&gt;
-
-&lt;p&gt;Yardena set up Jenkins and explored &lt;a href='http://www.liquibase.org/'&gt;Liquibase&lt;/a&gt; for schema management, she did research on &lt;a href='http://www.scala-lang.org/archives/downloads/distrib/files/nightly/docs/library/scala/reflect/api/Mirror.html'&gt;Scala reflection&lt;/a&gt; as an alternative for AspectJ.&lt;/p&gt;
-
-&lt;p&gt;Ronen worked did lots of &lt;a href='http://puppetlabs.com/puppet/what-is-puppet/'&gt;Puppet&lt;/a&gt; work and used &lt;a href='https://github.com/rodjek/librarian-puppet'&gt;librarian-puppet&lt;/a&gt; to manage its depdencies, &lt;a href='url'&gt;FPM&lt;/a&gt; and &lt;a href='url'&gt;Vagrant&lt;/a&gt; too, you can view the slide of the talk I gave in &lt;a href='http://narkisr.github.com/vagrant-sketching-board/index.html#/'&gt;devopscon&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We mentioned Javascript &lt;a href='http://www.youtube.com/watch?v=kXEgk1Hdze0&amp;amp;feature=youtu.be'&gt;WAT&lt;/a&gt; (JS humor), Ruby under a microscope intro &lt;a href='http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=0npv906IQag'&gt;video&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In our discussion about Clojure macros Ronen mentioned &lt;a href='https://github.com/ztellman/sleight'&gt;sleight&lt;/a&gt; for global macro application.&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;In the news we covered:&lt;/p&gt;
-
-&lt;p&gt;LLVM gets loop &lt;a href='http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTIxNTY'&gt;vectorizer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='http://mail.openjdk.java.net/pipermail/announce/2012-November/000139.html'&gt;Nashorn&lt;/a&gt; JVM javascript engine is out (replacing Rhino).&lt;/p&gt;
-
-&lt;p&gt;Clojure 1.5 rc 1 is out&lt;/p&gt;
-
-&lt;p&gt;Scala 2.10 is (almost) out&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     
     <item>
       <title>Lambda Pod Yesod Episode</title>
