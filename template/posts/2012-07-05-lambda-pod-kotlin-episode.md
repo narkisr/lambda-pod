@@ -1,8 +1,7 @@
----
-layout: post
-category : episode
-tags : [kotlin, emr, clojure, andery, breslav, akka, hadoop]
-description: |
+; @layout post
+; @category episode
+; @tags : [kotlin, emr, clojure, andery, breslav, akka, hadoop]
+; @description: |
   Third episode Kotlin interview
 ---
 

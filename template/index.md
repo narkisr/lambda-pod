@@ -1,10 +1,6 @@
----
-layout: landing
-title: Lambda pod
-head_title: Lambda pod
----
+; @layout page
+; @title Lambda pod
 
-{% include JB/setup %}
 <div class="row">
   <div class="highlight-wrap span4">
     <p>

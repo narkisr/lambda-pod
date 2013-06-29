@@ -1,9 +1,9 @@
 {
- ;; directory setting
  :public-dir   "public/"
  ;; :tag-out-dir  "tag/"
  :template-dir "template/"
  :layout-dir   "layouts/"
+ :post-dir     "posts/"
 
  :url-base     "/"
 
@@ -12,22 +12,25 @@
  :lang "en"
 
  :site {:charset    "utf-8"
-        :site-title "celestial-ops.com"
+        :site-title "Lambda pod"
         :twitter    "celestialops"
-        :project-name "Celestial"
+        :project-name "lambda pod"
         :root "/"
         }
 
+ :post-filename-regexp #"(\d{4})[-_](\d{1,2})[-_](\d{1,2})[-_](.+)$"
+ :post-filename-format "posts/{{year}}-{{month}}/{{filename}}"
+
  ;; post file compile hook
-:compile-with-post ["index.html" "community.html" "guides.html" "user_managment.html"]
+:compile-with-post ["index.md" "atom.xml.clj"]
 
  :cljs {:src-dir       "cljs"
         :output-to     "js/main.js"
         :optimizations :whitespace
         :pretty-print true}
 
- :compiler  ["clostache" "cljs"]
+ :compiler  ["markdown"]
 
- :detailed-log false
+ :detailed-log true
  }
 

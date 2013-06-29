@@ -1,8 +1,7 @@
----
-layout: post
-category : episode
-tags : [introduction, dart, gilad, newspeak, dart ]
-description: |
+; @layout post
+; @category episode
+; @tags [introduction, dart, gilad, newspeak, dart ]
+; @description: |
   Second episode Gilad Bracha interview
 ---
 

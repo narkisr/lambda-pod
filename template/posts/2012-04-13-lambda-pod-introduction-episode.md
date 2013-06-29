@@ -1,10 +1,7 @@
----
-layout: post
-category : episode
-tags : [introduction, scala, datomic, golang, dart]
-description: |
-  The first episode of the Sayeret lambda podcast
----
+; @layout post
+; @category  episode
+; @tags  [introduction, scala, datomic, golang, dart]
+; @description   The first episode of the Sayeret lambda podcast
 
 ## Overview 
 

@@ -2,7 +2,7 @@
   :description "lambda pod website"
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [misaki "0.2.6.1-beta"]
-                 [narkisr/misaki-clostache "0.0.3-alpha"] ]
+                 [narkisr/misaki-markdown "0.0.1-alpha"]]
 
   
   :aliases        {"all" ["with-profile" "dev"]}
