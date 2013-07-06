@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
@@ -6,8 +7,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Lambda pod</title>
-<meta name="author" content="">
+<title>Lambda pod </title>
+<meta name="author" content="lambdapod">
 <link href='/css/style.css' rel="stylesheet" media="all">
 <link href="http://feeds.feedburner.com/" rel="alternate" title="" type="application/atom+xml">
 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
@@ -63,10 +64,10 @@
 <div class="meta">
 <p class="date-publish">
 Published:
-<date class="date-pub" title="" datetime="" pubdate>
-<!-- <span class="month"><abbr></abbr></span> -->
-<!-- <span class="day"></span> -->
-<!-- <span class="year"></span> -->
+<date class="date-pub" title="{{ date | date_to_xmlschema }}" datetime="{{ date | date_to_xmlschema }}" pubdate>
+<!-- <span class="month"><abbr>{{ date | date: '%B' }}</abbr></span> -->
+<!-- <span class="day">{{ date | date: '%d' }}</span> -->
+<!-- <span class="year">{{ date | date: '%Y' }}</span> -->
 </date>
 </p>
 <ul class="list-category list-linear">
@@ -84,12 +85,23 @@ Published:
 <div class="misc-content">
 <div class="social">
 <ul class="list-linear">
-<li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="" data-lang="en">Tweet</a></div></li>
-<li><div class="twitter-follow"><a href="https://twitter.com/" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
+<li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="saylambda" data-lang="en">Tweet</a></div></li>
+<li><div class="twitter-follow"><a href="https://twitter.com/saylambda" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
 </ul>
 </div>
 
-<!-- {% include JB/comments %} -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_shortname = 'lambdapod'; // required: replace example with your forum shortname
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 </div><!-- misc-content -->
 
 </div><!-- bd -->
@@ -98,13 +110,13 @@ Published:
 <nav class="pagination">
 <ul>
 <!-- {% if previous %} -->
-<li class="prev"><a class="internal" rel="prev"  href="" title="View ">&laquo; </a></li>
+<li class="prev"><a class="internal" rel="prev"  href="{{ previous.url }}" title="View {{ previous.title }}">&laquo; {{ previous.title }}</a></li>
 <!-- {% endif %} -->
 <!-- {% if previous and next %} -->
 <li class="pipe"> | </li>
 <!-- {% endif %} -->
 <!-- {% if next %} -->
-<li class="next"><a class="internal" rel="next"  href="" title="View "> &raquo;</a></li>
+<li class="next"><a class="internal" rel="next"  href="{{ next.url }}" title="View {{ next.title }}">{{ next.title }} &raquo;</a></li>
 <!-- {% endif %} -->
 </ul>
 </nav>
@@ -147,7 +159,7 @@ fjs.parentNode.insertBefore(js, fjs);
 };
 load('//platform.twitter.com/widgets.js', 'tweetjs');
 // load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
-// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="{{ page.url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
 }(document, 'script'));
 </script>
 <script>
