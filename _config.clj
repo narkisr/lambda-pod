@@ -13,7 +13,7 @@
 
  :site {:charset    "utf-8"
         :site-title "Lambda pod"
-        :twitter    "celestialops"
+        :twitter    "saylambda"
         :project-name "lambda pod"
         :root "/"
         }
