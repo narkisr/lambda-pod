@@ -1,14 +1,13 @@
 ; @title  lambda-pod
 ; @markdown? false
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>$(site-title)</title>
     <link href="$(atom-base)$(root)atom.xml" rel="self" />
     <link href="$(atom-base)$(root)" />
-    <updated></updated>
+    <updated>$(now :date-time-no-ms)</updated>
     <id>$(atom-base)</id>
-    <author><name>$(twitter-id)</name></author>
+    <author><name>$(twitter)</name></author>
 
     @(for all-posts)
     <entry>
