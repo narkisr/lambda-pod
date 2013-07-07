@@ -1,8 +1,8 @@
 ; @layout post
 ; @category episode
+; @title Kotlin
 ; @tags : [kotlin, emr, clojure, andery, breslav, akka, hadoop]
-; @description: |
-  Third episode Kotlin interview
+; @description Third episode Kotlin interview
 ---
 
 ## Overview 

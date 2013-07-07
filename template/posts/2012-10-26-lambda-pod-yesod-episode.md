@@ -1,7 +1,8 @@
-; @layout page
+; @layout post
 ; @category  episode
 ; @tags  [Yesod Haskell rabbitmq scala gelfino storm slick subcut dagger dart newspeak codeq]
-; @description: | Fifth episode Yesod interview
+; @title Yesod
+; @description Fifth episode Yesod interview
 
 ## Overview 
 

@@ -1,8 +1,8 @@
-; @layout: post
-; @category : episode
-; @tags : [azul, gc, clojure, gil , tene , cloud-foundry, cloudsearch]
-; @description: |
-  Forth episode Azul interview
+; @layout post
+; @category  episode
+; @tags  [azul, gc, clojure, gil , tene , cloud-foundry, cloudsearch]
+; @title Azul
+; @description Forth episode Azul interview
 ---
 
 ## Overview 
