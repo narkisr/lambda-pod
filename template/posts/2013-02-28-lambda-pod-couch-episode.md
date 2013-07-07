@@ -2,7 +2,7 @@
 ; @category  episode
 ; @tags  [Groovy Pupppet Fpm Librarian-Puppet Scala Reflection Mirroring]
 ; @title Couch
-; @description Sevent episode Couch
+; @description Seventh episode Couch
 
 ## Overview 
 
