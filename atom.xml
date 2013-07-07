@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Lambda pod</title>
-<link href="http://narkisr.github.io/lambda-pod/lambda-pod/atom.xml" rel="self" />
-<link href="http://narkisr.github.io/lambda-pod/lambda-pod/" />
-<updated>2013-07-07T20:08:20Z</updated>
-<id>http://narkisr.github.io/lambda-pod</id>
+<link href="http://narkisr.github.io//lambda-pod/atom.xml" rel="self" />
+<link href="http://narkisr.github.io//lambda-pod/" />
+<updated>2013-07-07T20:10:45Z</updated>
+<id>http://narkisr.github.io/</id>
 <author><name>saylambda</name></author>
 
 <entry>
 <title>Couch</title>
-<link>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</link>
+<link>http://narkisr.github.io//lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</link>
 <updated>2013-02-28T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</id>
+<id>http://narkisr.github.io//lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</id>
 <content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our seventh &lt;a href=&quot;https://dl.dropboxusercontent.com/u/116845/lambda-pod-7.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -35,9 +35,9 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 </entry>
 <entry>
 <title>Groovy</title>
-<link>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2013-01/lambda-pod-groovy-episode.html</link>
+<link>http://narkisr.github.io//lambda-pod/posts/2013-01/lambda-pod-groovy-episode.html</link>
 <updated>2013-01-29T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2013-01/lambda-pod-groovy-episode.html</id>
+<id>http://narkisr.github.io//lambda-pod/posts/2013-01/lambda-pod-groovy-episode.html</id>
 <content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our sixth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-6.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -61,9 +61,9 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 </entry>
 <entry>
 <title>Yesod</title>
-<link>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-10/lambda-pod-yesod-episode.html</link>
+<link>http://narkisr.github.io//lambda-pod/posts/2012-10/lambda-pod-yesod-episode.html</link>
 <updated>2012-10-26T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-10/lambda-pod-yesod-episode.html</id>
+<id>http://narkisr.github.io//lambda-pod/posts/2012-10/lambda-pod-yesod-episode.html</id>
 <content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our fifth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-5.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -90,9 +90,9 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 </entry>
 <entry>
 <title>Azul</title>
-<link>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-08/lambda-pod-azul-episode.html</link>
+<link>http://narkisr.github.io//lambda-pod/posts/2012-08/lambda-pod-azul-episode.html</link>
 <updated>2012-08-18T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-08/lambda-pod-azul-episode.html</id>
+<id>http://narkisr.github.io//lambda-pod/posts/2012-08/lambda-pod-azul-episode.html</id>
 <content type="html">&lt;hr /&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our forth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-4.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
@@ -114,9 +114,9 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 </entry>
 <entry>
 <title>Kotlin</title>
-<link>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-07/lambda-pod-kotlin-episode.html</link>
+<link>http://narkisr.github.io//lambda-pod/posts/2012-07/lambda-pod-kotlin-episode.html</link>
 <updated>2012-07-05T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-07/lambda-pod-kotlin-episode.html</id>
+<id>http://narkisr.github.io//lambda-pod/posts/2012-07/lambda-pod-kotlin-episode.html</id>
 <content type="html">&lt;hr /&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our third &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-3.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
@@ -141,9 +141,9 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 </entry>
 <entry>
 <title>Dart</title>
-<link>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-05/lambda-pod-dart-episode.html</link>
+<link>http://narkisr.github.io//lambda-pod/posts/2012-05/lambda-pod-dart-episode.html</link>
 <updated>2012-05-13T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-05/lambda-pod-dart-episode.html</id>
+<id>http://narkisr.github.io//lambda-pod/posts/2012-05/lambda-pod-dart-episode.html</id>
 <content type="html">&lt;hr /&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our second &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-2.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
@@ -159,9 +159,9 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 </entry>
 <entry>
 <title>Lambdapod introduction</title>
-<link>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-04/lambda-pod-introduction-episode.html</link>
+<link>http://narkisr.github.io//lambda-pod/posts/2012-04/lambda-pod-introduction-episode.html</link>
 <updated>2012-04-13T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/lambda-pod/posts/2012-04/lambda-pod-introduction-episode.html</id>
+<id>http://narkisr.github.io//lambda-pod/posts/2012-04/lambda-pod-introduction-episode.html</id>
 <content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our first &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-1-v2.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
