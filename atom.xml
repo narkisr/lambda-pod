@@ -3,10 +3,36 @@
 <title>Lambda pod</title>
 <link href="http://narkisr.github.io/lambda-pod/atom.xml" rel="self" />
 <link href="http://narkisr.github.io/lambda-pod/" />
-<updated>2013-07-07T21:12:45Z</updated>
+<updated>2013-07-07T21:20:45Z</updated>
 <id>http://narkisr.github.io</id>
 <author><name>saylambda</name></author>
 
+<entry>
+<title>Couch</title>
+<link>http://narkisr.github.io/lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</link>
+<updated>2013-02-28T00:00:00</updated>
+<id>http://narkisr.github.io/lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</id>
+<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our seventh &lt;a href=&quot;http://db.tt/SHyg7upY&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://damienkatz.net/&quot;&gt;Damien Katz&lt;/a&gt; CTO of &lt;a href=&quot;http://www.Couchbase.com/&quot;&gt;couchbase&lt;/a&gt; database company and creator of the &lt;a href=&quot;https://couchdb.apache.org/&quot;&gt;Couchdb&lt;/a&gt; project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yardena developed a library for monitoring procceses using &lt;a href=&quot;http://akka.io/&quot;&gt;Akka&lt;/a&gt;, she also migrated to git with her team using &lt;a href=&quot;https://github.com/nvie/gitflow&quot;&gt;gitflow&lt;/a&gt; and considered &lt;a href=&quot;https://code.google.com/p/gerrit/&quot;&gt;gerrit&lt;/a&gt; for code reviews but decided on &lt;a href=&quot;http://www.reviewboard.org/&quot;&gt;reviewboard&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ronen gave a talk about Vagrant and &lt;a href=&quot;https://github.com/narkisr/opskeleton&quot;&gt;opskeleton&lt;/a&gt;,
+He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtualenv&lt;/a&gt; in python land and used &lt;a href=&quot;https://developers.helloreverb.com/swagger/&quot;&gt;swagger&lt;/a&gt; to document some API's, &lt;a href=&quot;https://github.com/ptaoussanis/carmine&quot;&gt;carmine&lt;/a&gt; is a redis library that he contributed code to.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://getprismatic.com/news/home&quot;&gt;Prismatic&lt;/a&gt; released &lt;a href=&quot;https://github.com/Prismatic/plumbing&quot;&gt;plumbing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/news/2013/03/Language-Expressiveness&quot;&gt;Language expressiveness&lt;/a&gt; survey.&lt;/p&gt;
+&lt;p&gt;New round of Coursera’s functional programming in scala is starting, a study group in LivePerson, &lt;a href=&quot;https://groups.google.com/forum/#!forum/underscore-il&quot;&gt;underscore-il&lt;/a&gt; group.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/slick/slick&quot;&gt;Slick&lt;/a&gt; 1.0 is out (LINQ for Scala).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/pellucidanalytics/datomisca&quot;&gt;Datomisca&lt;/a&gt; - Scala API for Datomic.&lt;/p&gt;
+</content>
+</entry>
 <entry>
 <title>Groovy</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2013-01/lambda-pod-groovy-episode.html</link>
