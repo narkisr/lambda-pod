@@ -3,7 +3,7 @@
 <title>Lambda pod</title>
 <link href="http://narkisr.github.io/lambda-pod/atom.xml" rel="self" />
 <link href="http://narkisr.github.io/lambda-pod/" />
-<updated>2013-07-07T23:20:45Z</updated>
+<updated>2013-07-08T22:20:45Z</updated>
 <id>http://narkisr.github.io</id>
 <author><name>saylambda</name></author>
 
@@ -13,7 +13,7 @@
 <updated>2013-02-28T00:00:00</updated>
 <id>http://narkisr.github.io/lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</id>
 <content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
-&lt;p&gt;This is our seventh &lt;a href=&quot;http://db.tt/SHyg7upY&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;p&gt;This is our seventh &lt;a href=&quot;http://s3-eu-west-1.amazonaws.com/lambda-pod/lambda-pod-7.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://damienkatz.net/&quot;&gt;Damien Katz&lt;/a&gt; CTO of &lt;a href=&quot;http://www.Couchbase.com/&quot;&gt;couchbase&lt;/a&gt; database company and creator of the &lt;a href=&quot;https://couchdb.apache.org/&quot;&gt;Couchdb&lt;/a&gt; project.&lt;/p&gt;
 &lt;/li&gt;
