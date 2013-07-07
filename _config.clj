@@ -22,7 +22,7 @@
  :post-filename-format "posts/{{year}}-{{month}}/{{filename}}"
 
  ;; post file compile hook
-:compile-with-post ["index.md" "atom.xml.clj"]
+:compile-with-post ["index.md" "atom.xml" "archive.md"]
 
  :cljs {:src-dir       "cljs"
         :output-to     "js/main.js"
