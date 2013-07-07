@@ -10,7 +10,7 @@
 <title>Lambda pod </title>
 <meta name="author" content="lambdapod">
 <link href='/css/style.css' rel="stylesheet" media="all">
-<link href="http://feeds.feedburner.com/" rel="alternate" title="Lambda pod" type="application/atom+xml">
+<link href="http://feeds.feedburner.com/" rel="alternate" title="Lambdapod introduction" type="application/atom+xml">
 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 </head>
 <body>
@@ -36,36 +36,78 @@
 <div class="unit-body">
 <div class="unit-inner unit-body-inner">
 <div class="entry-content">
-<p><article class="unit-article layout-page"></p>
+<p><article class="unit-article layout-post"></p>
 <div class="unit-inner unit-article-inner">
 <div class="content">
 <header>
 <div class="unit-head">
 <div class="unit-inner unit-head-inner">
-<h1 class="h2 entry-title">Lambda pod</h1>
+<h1 class="h2 entry-title">Lambdapod introduction</h1>
 </div><!-- unit-inner -->
 </div><!-- unit-head -->
 </header>
 
 <div class="bd">
 <div class="entry-content">
-<div class="row">
-<div class="highlight-wrap span4">
-<p>
-Welcome to the Sayeret lambda group monthly podcast, covering programming language news, commentary and interviews with Lambda speakers!
-</p>
-
-<p>The podcast is hosted by Ronen Narkis and Yardena Meymann, feel free to poke around the <a href="{{BASE_PATH}}/archive.html">episodes</a> and <a href="http://feeds.feedburner.com/sayeret-pod">subscribe</a>.</p>
-<p> The podcast is in Hebrew, interviews will be usually in English </p>
-</div>
-</div>
+<h2>Overview</h2>
+<p>This is our first <a href="http://dl.dropbox.com/u/116845/lambda-pod-1-v2.mp3">episode!</a> in it we cover:</p>
+<ul>
+<li><p>Introduction and why <b>Lambda pod</b> has a right to exist.</p>
+</li>
+<li><p>Whats kept us busy: Yardena talked about her first <a href="http://groovy.codehaus.org/">Groovy</a> experience and using <a href="http://www.easyb.org/">Easyb</a>, Ronen mentioned <a href="https://github.com/narkisr/gelfino">Gelfino</a> and the s-exp to l-exp <a href="https://github.com/narkisr/gelfino/blob/master/src/gelfino/drools/dsl.clj">compiler</a>.</p>
+</li>
+<li><p>Interview with <a href="http://www.iulidragos.org/">Iulian Dragos</a> of <a href="http://typesafe.com/">Typesafe</a> about Scala, it IDE support and the community in general.</p>
+</li>
+<li><p>Our impressions of the Edge Java conference, meeting Tim Berglund and Ronen's work on <a href="http://www.liquibase.org/">Liquibase</a> <a href="https://github.com/narkisr/groovy-liquibase">Dsl</a> and <a href="https://github.com/narkisr/gradle-liquibase-plugin">Gradle plugin</a>, Yardena impression of time travel debugger and meeting Iulian.</p>
+</li>
+<li><p><a href="http://datomic.com/">datomic</a> is out, uses datalog as query language,  has a unique approach to data persistency and caching.</p>
+</li>
+<li><p>Scala macros <a href="http://blog.empathybox.com/post/19126121307/scala-macros-oh-god-why">controversy</a> and Odersky’s <a href="https://groups.google.com/forum/?hl=en&amp;fromgroups#!msg/scala-language/PV4q6O1qIh8/yG4p8PA2Jf8J">response</a></p>
+</li>
+<li><p>Golang first version <a href="http://blog.golang.org/2012/03/go-version-1-is-released.html">out</a>, the next sayeret talk will be on <a href="http://www.meetup.com/saylambda/events/59049672/">Golang</a>, <a href="http://www.meetup.com/saylambda/events/59822632/">Dart</a> will follow.</p>
+</li>
+</ul>
 </div><!-- entry-content -->
-</div><!-- bd -->
+<div class="misc-content">
+<div class="social">
+<ul class="list-linear">
+<li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="saylambda" data-lang="en">Tweet</a></div></li>
+<li><div class="twitter-follow"><a href="https://twitter.com/saylambda" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
+</ul>
+</div>
 
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_shortname = 'lambdapod'; // required: replace example with your forum shortname
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div><!-- misc-content -->
+
+</div><!-- bd -->
 <footer class="unit-foot">
 <div class="unit-inner unit-foot-inner">
+<nav class="pagination">
+<ul>
+<!-- {% if previous %} -->
+<li class="prev"><a class="internal" rel="prev"  href="{{ previous.url }}" title="View {{ previous.title }}">&laquo; {{ previous.title }}</a></li>
+<!-- {% endif %} -->
+<!-- {% if previous and next %} -->
+<li class="pipe"> | </li>
+<!-- {% endif %} -->
+<!-- {% if next %} -->
+<li class="next"><a class="internal" rel="next"  href="{{ next.url }}" title="View {{ next.title }}">{{ next.title }} &raquo;</a></li>
+<!-- {% endif %} -->
+</ul>
+</nav>
 <p class="gotop">
-<a href="#page">Back to Top</a>
+<a href="#>Back to Top</a>
 </p>
 </div>
 </footer>

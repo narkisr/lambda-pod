@@ -1,11 +1,8 @@
 
 http://narkisr.github.com/lambda-pod/sitemap.txt
-http://narkisr.github.com/lambda-pod/categories.html
 http://narkisr.github.com/lambda-pod/archive.html
-http://narkisr.github.com/lambda-pod/pages.html
-http://narkisr.github.com/lambda-pod/rss.xml
+http://narkisr.github.com/lambda-pod/atom.xml
 http://narkisr.github.com/lambda-pod/index.html
-http://narkisr.github.com/lambda-pod/tags.html
 http://narkisr.github.com/lambda-pod/404.html
 
 http://narkisr.github.com/lambda-pod/episode/2012/10/26/lambda-pod-yesod-episode

@@ -10,7 +10,7 @@
 <title>Lambda pod </title>
 <meta name="author" content="lambdapod">
 <link href='/css/style.css' rel="stylesheet" media="all">
-<link href="http://feeds.feedburner.com/" rel="alternate" title="Lambda pod" type="application/atom+xml">
+<link href="http://feeds.feedburner.com/" rel="alternate" title="Azul" type="application/atom+xml">
 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 </head>
 <body>
@@ -36,36 +36,77 @@
 <div class="unit-body">
 <div class="unit-inner unit-body-inner">
 <div class="entry-content">
-<p><article class="unit-article layout-page"></p>
+<p><article class="unit-article layout-post"></p>
 <div class="unit-inner unit-article-inner">
 <div class="content">
 <header>
 <div class="unit-head">
 <div class="unit-inner unit-head-inner">
-<h1 class="h2 entry-title">Lambda pod</h1>
+<h1 class="h2 entry-title">Azul</h1>
 </div><!-- unit-inner -->
 </div><!-- unit-head -->
 </header>
 
 <div class="bd">
 <div class="entry-content">
-<div class="row">
-<div class="highlight-wrap span4">
-<p>
-Welcome to the Sayeret lambda group monthly podcast, covering programming language news, commentary and interviews with Lambda speakers!
-</p>
-
-<p>The podcast is hosted by Ronen Narkis and Yardena Meymann, feel free to poke around the <a href="{{BASE_PATH}}/archive.html">episodes</a> and <a href="http://feeds.feedburner.com/sayeret-pod">subscribe</a>.</p>
-<p> The podcast is in Hebrew, interviews will be usually in English </p>
-</div>
-</div>
+<hr />
+<h2>Overview</h2>
+<p>This is our forth <a href="http://dl.dropbox.com/u/116845/lambda-pod-4.mp3">episode!</a> in it we cover:</p>
+<ul>
+<li><p>Interview with <a href="http://www.azulsystems.com/blog/author/gil">Gil Tene</a> from Azul systems about GC.</p>
+</li>
+<li><p>In what we did section we cover:</p>
+</li>
+</ul>
+<p>Yardena used <a href="http://cloudfoundry.org/">Cloud Foundry</a> and  <a href="http://docs.cloudfoundry.com/tools/vmc/installing-vmc.html/">VMC</a>.</p>
+<p>Ronen used <a href="http://aws.amazon.com/cloudsearch/">cloudsearch</a> and released <a href="https://github.com/gingersoftware/cloujsearch">Cloujsearch</a>, <a href="https://github.com/rplevy/swiss-arrows">swiss arrows</a> and <a href="https://github.com/hugoduncan/criterium">criterium</a> were mentioned too.</p>
+<ul>
+<li>In the news we covered:</li>
+</ul>
+<p><a href="http://www.infoq.com/articles/new-groovy-20">Groovy 2.0</a>, <a href="http://joxa.org/">Joxa</a>, project Jigsaw <a href="http://www.infoworld.com/d/application-development/project-jigsaw-delayed-until-java-9-198007">delayed</a>.</p>
+<p>Open source Architecture <a href="http://www.aosabook.org/en/nginx.html">Nginx</a> chapter.</p>
+<p>Akka <a href="https://github.com/eligosource/eventsourced">eventsource</a> library.</p>
 </div><!-- entry-content -->
-</div><!-- bd -->
+<div class="misc-content">
+<div class="social">
+<ul class="list-linear">
+<li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="saylambda" data-lang="en">Tweet</a></div></li>
+<li><div class="twitter-follow"><a href="https://twitter.com/saylambda" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
+</ul>
+</div>
 
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_shortname = 'lambdapod'; // required: replace example with your forum shortname
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div><!-- misc-content -->
+
+</div><!-- bd -->
 <footer class="unit-foot">
 <div class="unit-inner unit-foot-inner">
+<nav class="pagination">
+<ul>
+<!-- {% if previous %} -->
+<li class="prev"><a class="internal" rel="prev"  href="{{ previous.url }}" title="View {{ previous.title }}">&laquo; {{ previous.title }}</a></li>
+<!-- {% endif %} -->
+<!-- {% if previous and next %} -->
+<li class="pipe"> | </li>
+<!-- {% endif %} -->
+<!-- {% if next %} -->
+<li class="next"><a class="internal" rel="next"  href="{{ next.url }}" title="View {{ next.title }}">{{ next.title }} &raquo;</a></li>
+<!-- {% endif %} -->
+</ul>
+</nav>
 <p class="gotop">
-<a href="#page">Back to Top</a>
+<a href="#>Back to Top</a>
 </p>
 </div>
 </footer>

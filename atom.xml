@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Lambda pod</title>
+<link href="/atom.xml" rel="self" />
+<link href="/" />
+<updated>2013-07-07T17:50:02Z</updated>
+<id></id>
+<author><name>saylambda</name></author>
+
+<entry>
+<title>Couch</title>
+<link>/posts/2013-02/lambda-pod-couch-episode.html</link>
+<updated>2013-02-28T00:00:00</updated>
+<id>/posts/2013-02/lambda-pod-couch-episode.html</id>
+<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our seventh &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-6.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://damienkatz.net/&quot;&gt;Damien Katz&lt;/a&gt; CTO of &lt;a href=&quot;http://www.Couchbase.com/&quot;&gt;couchbase&lt;/a&gt; database company and creator of the &lt;a href=&quot;https://couchdb.apache.org/&quot;&gt;Couchdb&lt;/a&gt; project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yardena developed a library for monitoring procceses using &lt;a href=&quot;http://akka.io/&quot;&gt;Akka&lt;/a&gt;, she also migrated to git with her team using &lt;a href=&quot;https://github.com/nvie/gitflow&quot;&gt;gitflow&lt;/a&gt; and considered &lt;a href=&quot;https://code.google.com/p/gerrit/&quot;&gt;gerrit&lt;/a&gt; for code reviews but decided on &lt;a href=&quot;http://www.reviewboard.org/&quot;&gt;reviewboard&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ronen gave a talk about Vagrant and &lt;a href=&quot;https://github.com/narkisr/opskeleton&quot;&gt;opskeleton&lt;/a&gt;,
+He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtualenv&lt;/a&gt; in python land and used &lt;a href=&quot;https://developers.helloreverb.com/swagger/&quot;&gt;swagger&lt;/a&gt; to document some API's, &lt;a href=&quot;https://github.com/ptaoussanis/carmine&quot;&gt;carmine&lt;/a&gt; is a redis library that he contributed code to.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://getprismatic.com/news/home&quot;&gt;Prismatic&lt;/a&gt; released &lt;a href=&quot;https://github.com/Prismatic/plumbing&quot;&gt;plumbing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/news/2013/03/Language-Expressiveness&quot;&gt;Language expressiveness&lt;/a&gt; survey.&lt;/p&gt;
+&lt;p&gt;New round of Coursera’s functional programming in scala is starting, a study group in LivePerson, &lt;a href=&quot;https://groups.google.com/forum/#!forum/underscore-il&quot;&gt;underscore-il&lt;/a&gt; group.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/slick/slick&quot;&gt;Slick&lt;/a&gt; 1.0 is out (LINQ for Scala).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/pellucidanalytics/datomisca&quot;&gt;Datomisca&lt;/a&gt; - Scala API for Datomic.&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Groovy</title>
+<link>/posts/2013-01/lambda-pod-groovy-episode.html</link>
+<updated>2013-01-29T00:00:00</updated>
+<id>/posts/2013-01/lambda-pod-groovy-episode.html</id>
+<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our sixth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-6.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://glaforge.appspot.com/&quot;&gt;Guillaume Laforge&lt;/a&gt; lead Architect of the &lt;a href=&quot;http://groovy.codehaus.org/&quot;&gt;Groovy&lt;/a&gt; Language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yardena set up Jenkins and explored &lt;a href=&quot;http://www.liquibase.org/&quot;&gt;Liquibase&lt;/a&gt; for schema management, she did research on &lt;a href=&quot;http://www.scala-lang.org/archives/downloads/distrib/files/nightly/docs/library/scala/reflect/api/Mirror.html&quot;&gt;Scala reflection&lt;/a&gt; as an alternative for AspectJ.&lt;/p&gt;
+&lt;p&gt;Ronen worked did lots of &lt;a href=&quot;http://puppetlabs.com/puppet/what-is-puppet/&quot;&gt;Puppet&lt;/a&gt; work and used &lt;a href=&quot;https://github.com/rodjek/librarian-puppet&quot;&gt;librarian-puppet&lt;/a&gt; to manage its depdencies, &lt;a href=&quot;http://narkisr.github.io/lambda-pod/episode/2013/01/29/lambda-pod-groovy-episode/url&quot;&gt;FPM&lt;/a&gt; and &lt;a href=&quot;http://narkisr.github.io/lambda-pod/episode/2013/01/29/lambda-pod-groovy-episode/url&quot;&gt;Vagrant&lt;/a&gt; too, you can view the slide of the talk I gave in &lt;a href=&quot;http://narkisr.github.com/vagrant-sketching-board/index.html#/&quot;&gt;devopscon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We mentioned Javascript &lt;a href=&quot;http://www.youtube.com/watch?v=kXEgk1Hdze0&amp;amp;feature=youtu.be&quot;&gt;WAT&lt;/a&gt; (JS humor), Ruby under a microscope intro &lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=0npv906IQag&quot;&gt;video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In our discussion about Clojure macros Ronen mentioned &lt;a href=&quot;https://github.com/ztellman/sleight&quot;&gt;sleight&lt;/a&gt; for global macro application.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;LLVM gets loop &lt;a href=&quot;http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTIxNTY&quot;&gt;vectorizer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mail.openjdk.java.net/pipermail/announce/2012-November/000139.html&quot;&gt;Nashorn&lt;/a&gt; JVM javascript engine is out (replacing Rhino).&lt;/p&gt;
+&lt;p&gt;Clojure 1.5 rc 1 is out&lt;/p&gt;
+&lt;p&gt;Scala 2.10 is (almost) out&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Yesod</title>
+<link>/posts/2012-10/lambda-pod-yesod-episode.html</link>
+<updated>2012-10-26T00:00:00</updated>
+<id>/posts/2012-10/lambda-pod-yesod-episode.html</id>
+<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our fifth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-5.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://www.snoyman.com/&quot;&gt;Michael Snoyman&lt;/a&gt; Lead developer of the &lt;a href=&quot;http://www.yesodweb.com/&quot;&gt;Yesod&lt;/a&gt; Web Framework.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yardena explored rabbitmq channel &lt;a href=&quot;http://stackoverflow.com/questions/7840283/how-can-queues-be-made-private-secure-in-rabbitmq-in-a-multitenancy-system&quot;&gt;security&lt;/a&gt; and &lt;a href=&quot;https://www.coursera.org/course/progfun&quot;&gt;Scala&lt;/a&gt; online course.&lt;/p&gt;
+&lt;p&gt;Ronen worked on &lt;a href=&quot;https://github.com/narkisr/gelfino&quot;&gt;gelfino&lt;/a&gt; and &lt;a href=&quot;https://github.com/nathanmarz/storm/wiki&quot;&gt;storm&lt;/a&gt; &lt;a href=&quot;https://vimeo.com/51372581&quot;&gt;integration&lt;/a&gt;, he also explored &lt;a href=&quot;https://github.com/dustin/seriesly&quot;&gt;Seriesly&lt;/a&gt; and ported its &lt;a href=&quot;http://square.github.com/cubism/&quot;&gt;Cubism&lt;/a&gt; horizion graphs example into Clojurescript in &lt;a href=&quot;https://github.com/narkisr/seriously&quot;&gt;Seriously&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Phil Bagwell &lt;a href=&quot;http://blog.typesafe.com/rip-phil-bagwell&quot;&gt;passing&lt;/a&gt;, RIP.&lt;/p&gt;
+&lt;p&gt;New Scala projects &lt;a href=&quot;https://github.com/slick/slick&quot;&gt;slick&lt;/a&gt;, &lt;a href=&quot;https://github.com/dickwall/subcut&quot;&gt;subcut&lt;/a&gt; and a Google guice alternative for Android &lt;a href=&quot;https://github.com/square/dagger&quot;&gt;dagger&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dart has entered the top 50 in &lt;a href=&quot;http://www.tiobe.com/content/paperinfo/tpci/index.html&quot;&gt;TIOBE&lt;/a&gt; index.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://newspeaklanguage.org/&quot;&gt;Newspeak&lt;/a&gt; is still alive and running had a relase in september.&lt;/p&gt;
+&lt;p&gt;Java 8 &lt;a href=&quot;http://www.infoq.com/articles/java-8-vs-scala&quot;&gt;borrows&lt;/a&gt; a lot from Scala.&lt;/p&gt;
+&lt;p&gt;We will be speaking in &lt;a href=&quot;http://www.oracleweek.com/&quot;&gt;Oracle week&lt;/a&gt;, Yardena's &lt;a href=&quot;http://www.oracleweek.com/?page=seminars&amp;amp;id=12516&quot;&gt;Scala seminar&lt;/a&gt; and Ronen's &lt;a href=&quot;http://www.oracleweek.com/?page=seminars&amp;amp;id=12116&quot;&gt;Clojure seminar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Datomic/codeq&quot;&gt;Codeq&lt;/a&gt; datastore for Clojure code based on git repository import, its based on &lt;a href=&quot;http://www.datomic.com/&quot;&gt;Datomic&lt;/a&gt; which runs also on &lt;a href=&quot;http://aws.amazon.com/dynamodb/&quot;&gt;Dynamo DB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JDK 8 will add OpenCL integration &lt;a href=&quot;http://www.google.com/url?q=http%3A%2F%2Fwww.extremetech.com%2Fcomputing%2F137628-project-sumatra-improves-java-performance-with-opencl-graphics-card-acceleration&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNHomdER-TzIUVrixl1N5M-FSZi-UA&quot;&gt;built in&lt;/a&gt;, there are a couple existing projects like  &lt;a href=&quot;https://github.com/pcpratts/rootbeer1&quot;&gt;rootbeer1&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://getprismatic.com/news/home&quot;&gt;Prismatic&lt;/a&gt; has created &lt;a href=&quot;http://blog.getprismatic.com/blog/2012/10/1/prismatics-graph-at-strange-loop.html&quot;&gt;Graph&lt;/a&gt; its not open source, &lt;a href=&quot;https://github.com/stuartsierra/flow&quot;&gt;Flow&lt;/a&gt; is a similar open source implementation.&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Azul</title>
+<link>/posts/2012-08/lambda-pod-azul-episode.html</link>
+<updated>2012-08-18T00:00:00</updated>
+<id>/posts/2012-08/lambda-pod-azul-episode.html</id>
+<content type="html">&lt;hr /&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our forth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-4.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://www.azulsystems.com/blog/author/gil&quot;&gt;Gil Tene&lt;/a&gt; from Azul systems about GC.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yardena used &lt;a href=&quot;http://cloudfoundry.org/&quot;&gt;Cloud Foundry&lt;/a&gt; and  &lt;a href=&quot;http://docs.cloudfoundry.com/tools/vmc/installing-vmc.html/&quot;&gt;VMC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ronen used &lt;a href=&quot;http://aws.amazon.com/cloudsearch/&quot;&gt;cloudsearch&lt;/a&gt; and released &lt;a href=&quot;https://github.com/gingersoftware/cloujsearch&quot;&gt;Cloujsearch&lt;/a&gt;, &lt;a href=&quot;https://github.com/rplevy/swiss-arrows&quot;&gt;swiss arrows&lt;/a&gt; and &lt;a href=&quot;https://github.com/hugoduncan/criterium&quot;&gt;criterium&lt;/a&gt; were mentioned too.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/new-groovy-20&quot;&gt;Groovy 2.0&lt;/a&gt;, &lt;a href=&quot;http://joxa.org/&quot;&gt;Joxa&lt;/a&gt;, project Jigsaw &lt;a href=&quot;http://www.infoworld.com/d/application-development/project-jigsaw-delayed-until-java-9-198007&quot;&gt;delayed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open source Architecture &lt;a href=&quot;http://www.aosabook.org/en/nginx.html&quot;&gt;Nginx&lt;/a&gt; chapter.&lt;/p&gt;
+&lt;p&gt;Akka &lt;a href=&quot;https://github.com/eligosource/eventsourced&quot;&gt;eventsource&lt;/a&gt; library.&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Kotlin</title>
+<link>/posts/2012-07/lambda-pod-kotlin-episode.html</link>
+<updated>2012-07-05T00:00:00</updated>
+<id>/posts/2012-07/lambda-pod-kotlin-episode.html</id>
+<content type="html">&lt;hr /&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our third &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-3.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://devnet.jetbrains.com/people/abreslav;jsessionid=1887C0AA73178CF271699AE9328192DE&quot;&gt;Andery Breslav&lt;/a&gt; from jetbrains about &lt;a href=&quot;http://confluence.jetbrains.net/display/Kotlin/Welcome&quot;&gt;Kotlin&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In what we did section we cover:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://aws.amazon.com/elasticmapreduce/&quot;&gt;Amazon EMR&lt;/a&gt;, &lt;a href=&quot;https://github.com/alexott/clojure-hadoop&quot;&gt;clojure hadoop&lt;/a&gt; for writing jobs and &lt;a href=&quot;https://github.com/TheClimateCorporation/lemur&quot;&gt;lemur&lt;/a&gt; for launching and configuring jobs, &lt;a href=&quot;http://fog.io/1.4.0/index.html&quot;&gt;fog&lt;/a&gt; for ec2 scripting.&lt;/p&gt;
+&lt;p&gt;Yardena Scala ILtech &lt;a href=&quot;&quot;&gt;talk&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/pub?id=1CMz_MEQA8oPcGw9oaFdq_KYYFB_5qZjsDYYwuXfZhBU&amp;amp;pli=1&quot;&gt;Akka 2.2 roadmap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://permalink.gmane.org/gmane.comp.java.openjdk.core-libs.devel/10361&quot;&gt;hash32&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/lvivski/start&quot;&gt;Dart start&lt;/a&gt; web server.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://patshaughnessy.net/2012/5/9/one-chapter-from-my-upcoming-ebook-ruby-under-a-microscope&quot;&gt;Ruby under microscope&lt;/a&gt; ebook.&lt;/p&gt;
+&lt;p&gt;Gilad notes on &lt;a href=&quot;http://gbracha.blogspot.co.il/2012/06/source-control-freak.html&quot;&gt;SCM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/luvit/luvit/&quot;&gt;luvit&lt;/a&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+<title>Dart</title>
+<link>/posts/2012-05/lambda-pod-dart-episode.html</link>
+<updated>2012-05-13T00:00:00</updated>
+<id>/posts/2012-05/lambda-pod-dart-episode.html</id>
+<content type="html">&lt;hr /&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our second &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-2.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://bracha.org/Site/Home.html&quot;&gt;Gilad Bracha&lt;/a&gt; of &lt;a href=&quot;http://google.com/&quot;&gt;Google&lt;/a&gt; about Dart, his ideas about programming languages and types in particular, Gilad mentioned &lt;a href=&quot;http://www.strongtalk.org/&quot;&gt;Strongtalk&lt;/a&gt; and  &lt;a href=&quot;http://newspeaklanguage.org/&quot;&gt;Newspeak&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In the news we covered: &lt;a href=&quot;https://github.com/clojure/clojure/blob/master/changes.md&quot;&gt;Clojure 1.4&lt;/a&gt;, &lt;a href=&quot;http://www.kickstarter.com/projects/306316578/light-table&quot;&gt;light table&lt;/a&gt;, &lt;a href=&quot;http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012&quot;&gt;Lang.NEXT&lt;/a&gt; and &lt;a href=&quot;https://vimeo.com/38994805&quot;&gt;Ruby GC&lt;/a&gt; talk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Reversim (an awesome podcast) hosted Ido Green about Dart from the users perspective, grab it &lt;a href=&quot;http://www.reversim.com/2012/05/140-dart-with-ido-green.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+</entry>
+<entry>
+<title>Lambdapod introduction</title>
+<link>/posts/2012-04/lambda-pod-introduction-episode.html</link>
+<updated>2012-04-13T00:00:00</updated>
+<id>/posts/2012-04/lambda-pod-introduction-episode.html</id>
+<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This is our first &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-1-v2.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Introduction and why &lt;b&gt;Lambda pod&lt;/b&gt; has a right to exist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Whats kept us busy: Yardena talked about her first &lt;a href=&quot;http://groovy.codehaus.org/&quot;&gt;Groovy&lt;/a&gt; experience and using &lt;a href=&quot;http://www.easyb.org/&quot;&gt;Easyb&lt;/a&gt;, Ronen mentioned &lt;a href=&quot;https://github.com/narkisr/gelfino&quot;&gt;Gelfino&lt;/a&gt; and the s-exp to l-exp &lt;a href=&quot;https://github.com/narkisr/gelfino/blob/master/src/gelfino/drools/dsl.clj&quot;&gt;compiler&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://www.iulidragos.org/&quot;&gt;Iulian Dragos&lt;/a&gt; of &lt;a href=&quot;http://typesafe.com/&quot;&gt;Typesafe&lt;/a&gt; about Scala, it IDE support and the community in general.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Our impressions of the Edge Java conference, meeting Tim Berglund and Ronen's work on &lt;a href=&quot;http://www.liquibase.org/&quot;&gt;Liquibase&lt;/a&gt; &lt;a href=&quot;https://github.com/narkisr/groovy-liquibase&quot;&gt;Dsl&lt;/a&gt; and &lt;a href=&quot;https://github.com/narkisr/gradle-liquibase-plugin&quot;&gt;Gradle plugin&lt;/a&gt;, Yardena impression of time travel debugger and meeting Iulian.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://datomic.com/&quot;&gt;datomic&lt;/a&gt; is out, uses datalog as query language,  has a unique approach to data persistency and caching.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Scala macros &lt;a href=&quot;http://blog.empathybox.com/post/19126121307/scala-macros-oh-god-why&quot;&gt;controversy&lt;/a&gt; and Odersky’s &lt;a href=&quot;https://groups.google.com/forum/?hl=en&amp;amp;fromgroups#!msg/scala-language/PV4q6O1qIh8/yG4p8PA2Jf8J&quot;&gt;response&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Golang first version &lt;a href=&quot;http://blog.golang.org/2012/03/go-version-1-is-released.html&quot;&gt;out&lt;/a&gt;, the next sayeret talk will be on &lt;a href=&quot;http://www.meetup.com/saylambda/events/59049672/&quot;&gt;Golang&lt;/a&gt;, &lt;a href=&quot;http://www.meetup.com/saylambda/events/59822632/&quot;&gt;Dart&lt;/a&gt; will follow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+</entry>
+
+</feed>
