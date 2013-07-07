@@ -2,5 +2,5 @@
 
 @(for posts)
 # $(date-format date "yyyy MM")
- * [$(title) - $(description)]($(url))
+ * [$(title) - $(description)]($(root)/$(url))
 @(end)
