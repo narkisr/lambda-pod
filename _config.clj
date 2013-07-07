@@ -5,7 +5,7 @@
  :layout-dir   "layouts/"
  :post-dir     "posts/"
 
- :url-base    "" 
+ :url-base    "/lambda-pod" 
 
  :port 8080
 
