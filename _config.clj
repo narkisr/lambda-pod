@@ -5,7 +5,7 @@
  :layout-dir   "layouts/"
  :post-dir     "posts/"
 
- :url-base     "/"
+ :url-base    "lambda-pod" 
 
  :port 8080
 
@@ -15,7 +15,6 @@
         :site-title "Lambda pod"
         :twitter    "saylambda"
         :project-name "lambda pod"
-        :root "http://narkisr.github.io/lambda-pod"
         }
 
  :post-filename-regexp #"(\d{4})[-_](\d{1,2})[-_](\d{1,2})[-_](.+)$"
