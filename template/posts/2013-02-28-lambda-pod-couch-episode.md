@@ -6,7 +6,7 @@
 
 ## Overview 
 
-This is our seventh [episode!](https://dl.dropboxusercontent.com/u/116845/lambda-pod-7.mp3) in it we cover:
+This is our seventh [episode!](http://db.tt/SHyg7upY) in it we cover:
 
  * Interview with [Damien Katz](http://damienkatz.net/) CTO of [couchbase](http://www.Couchbase.com/) database company and creator of the [Couchdb](https://couchdb.apache.org/) project.
 
