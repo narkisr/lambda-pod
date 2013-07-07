@@ -1,22 +1,22 @@
-; @title  misaki
-; @base   http://localhost:8080
+; @title  lambda-pod
+; @markdown? false
 
-"<?xml version=\"1.0\" encoding=\"utf-8\"?>"
-[:feed {:xmlns "http://www.w3.org/2005/Atom"}
- [:title (:site-title site)]
- [:link {:href (str (:base site) "/atom.xml"), :rel "self"}]
- [:link {:href (:base site)}]
- [:updated (date->xml-schema (:date site))]
- [:id (:base site)]
- [:author [:name "@uochan"]]
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>$(site-title)</title>
+    <link href="$(atom-base)$(root)atom.xml" rel="self" />
+    <link href="$(atom-base)$(root)" />
+    <updated></updated>
+    <id>$(atom-base)</id>
+    <author><name>$(twitter-id)</name></author>
 
- (for [post (:posts site)]
-   [:entry
-    [:title (:title post)]
-    [:link  (str (:base site) (:url post))]
-    [:updated (date->xml-schema (:date post))]
-    [:id (str (:base site) (:url post))]
-    [:content {:type "html"}
-     (force (:lazy-content post) )
-     ]])]
-
+    @(for all-posts)
+    <entry>
+        <title>$(title)</title>
+        <link>$(atom-base)$(url)</link>
+        <updated>$(date->xml-schema date)</updated>
+        <id>$(atom-base)$(url)</id>
+        <content type="html">$(content)</content>
+    </entry>
+    @(end)
+</feed>
