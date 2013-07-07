@@ -15,6 +15,7 @@
         :site-title "Lambda pod"
         :twitter    "saylambda"
         :project-name "lambda pod"
+        :atom-base "http://narkisr.github.io/lambda-pod"
         }
 
  :post-filename-regexp #"(\d{4})[-_](\d{1,2})[-_](\d{1,2})[-_](.+)$"
