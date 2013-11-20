@@ -32,4 +32,4 @@ This is our eight [episode!](http://s3-eu-west-1.amazonaws.com/lambda-pod/lambda
 
    Clojure [core.async](http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html).
 
-   [Future or programming](http://vimeo.com/71278954 future or programming (or the past) (or the past).
+   [Future or programming](http://vimeo.com/71278954 future or programming) (or the past).
