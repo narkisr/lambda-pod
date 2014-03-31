@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-<title>Lambda pod</title>
-<link href="http://narkisr.github.io/lambda-pod/atom.xml" rel="self" />
-<link href="http://narkisr.github.io/lambda-pod/" />
-<updated>$(now :date-time-no-ms)</updated>
-<id>http://narkisr.github.io</id>
-<author><name>saylambda</name></author>
-
-<entry>
+<p><?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http: //www.w3.org/2005/Atom">
+<channel>
+<title>Sayeret pod</title>
+<link href="http: //narkisr.github.io/lambda-pod/" rel="self" />
+<atom:link href="http: //narkisr.github.iorss.xml" rel="self" type="application/rss+xml" />
+<description>Sayeret lambda podcast</description>
+<language>en-us</language>
+<pubDate>$(foo date &quot;a, d m Y H:M:S z&quot;)</pubDate>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate></p>
+<p><item>
 <title>Elixir</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2014-03/lambda-pod-elixir-episode.html</link>
-<updated>2014-03-31T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2014-03/lambda-pod-elixir-episode.html</id>
-<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+<pubDate>2014-03-31T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our ninth &lt;a href=&quot;http://s3-eu-west-1.amazonaws.com/lambda-pod/lambda-pod-9.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;An interview with &lt;a href=&quot;http://blog.plataformatec.com.br/&quot;&gt;Jose Valim&lt;/a&gt; about &lt;a href=&quot;http://elixir-lang.org/&quot;&gt;Elixir&lt;/a&gt;.&lt;/p&gt;
@@ -22,26 +24,25 @@
 &lt;/ul&gt;
 &lt;p&gt;Yardena mentioned the &lt;a href=&quot;https://www.youtube.com/watch?v=2rKEveL55TY&quot;&gt;Micro-services&lt;/a&gt; architecture, she also gave a talk at &lt;a href=&quot;http://summit2014.reversim.com/proposal/wEEiZjNqLL3tGhR4B&quot;&gt;reversim&lt;/a&gt; about Scala and Akka.&lt;/p&gt;
 &lt;p&gt;Yardena used SBT to package docker instances of Spark and Play.&lt;/p&gt;
-&lt;p&gt;Ronen released &lt;a href=&quot;http://celestial-ops.com/&quot;&gt;Celestial&lt;/a&gt; publicly.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/narkisr/octo&quot;&gt;Octo&lt;/a&gt; a tiny Elixir project for backing up github.&lt;/p&gt;
+&lt;p&gt;Ronen released &lt;a href=&quot;http://celestial-ops.com/&quot;&gt;Celestial&lt;/a&gt; publicly, &lt;a href=&quot;https://github.com/narkisr/octo&quot;&gt;Octo&lt;/a&gt; a tiny Elixir project for backing up github.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/narkisr/puppet-backup&quot;&gt;Puppet Backup&lt;/a&gt; module and &lt;a href=&quot;https://github.com/opskeleton/opskeleton&quot;&gt;Opskeleton&lt;/a&gt; testing support were mentioned also.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;In the news we covered:
-&lt;a href=&quot;http://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go#btnNext&quot;&gt;Docker and Go&lt;/a&gt; presentation.&lt;/li&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Clojure slow startup &lt;a href=&quot;http://nicholaskariniemi.github.io/2014/02/25/clojure-bootstrapping.html&quot;&gt;analysis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Clojure web security &lt;a href=&quot;https://www.youtube.com/watch?v=CBL59w7fXw4&quot;&gt;sucks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Can Java 8 replace &lt;a href=&quot;http://ahmedsoliman.com/2014/03/26/will-java-8-kill-scala/?utm_content=buffer969c6&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&quot;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Akka &lt;a href=&quot;http://akka.io/news/&quot;&gt;2.3&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/lampepfl/dotty&quot;&gt;Dotty&lt;/a&gt; Scala 3.0.&lt;/p&gt;
-</content>
-</entry>
-<entry>
+&lt;p&gt;&lt;a href=&quot;https://github.com/Engelberg/instaparse&quot;&gt;Instaparse&lt;/a&gt; clojure parsing library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.azulsystems.com/blog/cliff/2008-05-27-clojure-stms-vs-locks&quot;&gt;STM vs Locks&lt;/a&gt; Cliff Click vs Rich Hickey.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.anandtech.com/show/6290/making-sense-of-intel-haswell-transactional-synchronization-extensions&quot;&gt;Intel HTX&lt;/a&gt; is here.&lt;/p&gt;
+&lt;p&gt;Clojure &lt;a href=&quot;http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html&quot;&gt;core.async&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[Future or programming](http://vimeo.com/71278954 future or programming) (or the past).&lt;/p&gt;
+</description>
+</item>
+<item>
 <title>Couch</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</link>
-<updated>2013-02-28T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2013-02/lambda-pod-couch-episode.html</id>
-<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+<pubDate>2013-02-28T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our seventh &lt;a href=&quot;http://s3-eu-west-1.amazonaws.com/lambda-pod/lambda-pod-7.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://damienkatz.net/&quot;&gt;Damien Katz&lt;/a&gt; CTO of &lt;a href=&quot;http://www.Couchbase.com/&quot;&gt;couchbase&lt;/a&gt; database company and creator of the &lt;a href=&quot;https://couchdb.apache.org/&quot;&gt;Couchdb&lt;/a&gt; project.&lt;/p&gt;
@@ -60,14 +61,15 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 &lt;p&gt;New round of Coursera’s functional programming in scala is starting, a study group in LivePerson, &lt;a href=&quot;https://groups.google.com/forum/#!forum/underscore-il&quot;&gt;underscore-il&lt;/a&gt; group.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/slick/slick&quot;&gt;Slick&lt;/a&gt; 1.0 is out (LINQ for Scala).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/pellucidanalytics/datomisca&quot;&gt;Datomisca&lt;/a&gt; - Scala API for Datomic.&lt;/p&gt;
-</content>
-</entry>
-<entry>
+</description>
+</item>
+<item>
 <title>Groovy</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2013-01/lambda-pod-groovy-episode.html</link>
-<updated>2013-01-29T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2013-01/lambda-pod-groovy-episode.html</id>
-<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+<pubDate>2013-01-29T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our sixth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-6.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://glaforge.appspot.com/&quot;&gt;Guillaume Laforge&lt;/a&gt; lead Architect of the &lt;a href=&quot;http://groovy.codehaus.org/&quot;&gt;Groovy&lt;/a&gt; Language.&lt;/p&gt;
@@ -77,23 +79,24 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 &lt;/ul&gt;
 &lt;p&gt;Yardena set up Jenkins and explored &lt;a href=&quot;http://www.liquibase.org/&quot;&gt;Liquibase&lt;/a&gt; for schema management, she did research on &lt;a href=&quot;http://www.scala-lang.org/archives/downloads/distrib/files/nightly/docs/library/scala/reflect/api/Mirror.html&quot;&gt;Scala reflection&lt;/a&gt; as an alternative for AspectJ.&lt;/p&gt;
 &lt;p&gt;Ronen worked did lots of &lt;a href=&quot;http://puppetlabs.com/puppet/what-is-puppet/&quot;&gt;Puppet&lt;/a&gt; work and used &lt;a href=&quot;https://github.com/rodjek/librarian-puppet&quot;&gt;librarian-puppet&lt;/a&gt; to manage its depdencies, &lt;a href=&quot;http://narkisr.github.io/lambda-pod/episode/2013/01/29/lambda-pod-groovy-episode/url&quot;&gt;FPM&lt;/a&gt; and &lt;a href=&quot;http://narkisr.github.io/lambda-pod/episode/2013/01/29/lambda-pod-groovy-episode/url&quot;&gt;Vagrant&lt;/a&gt; too, you can view the slide of the talk I gave in &lt;a href=&quot;http://narkisr.github.com/vagrant-sketching-board/index.html#/&quot;&gt;devopscon&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We mentioned Javascript &lt;a href=&quot;http://www.youtube.com/watch?v=kXEgk1Hdze0&amp;amp;feature=youtu.be&quot;&gt;WAT&lt;/a&gt; (JS humor), Ruby under a microscope intro &lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=0npv906IQag&quot;&gt;video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We mentioned Javascript &lt;a href=&quot;http://www.youtube.com/watch?v=kXEgk1Hdze0&amp;amp;feature=youtu.be&quot;&gt;WAT&lt;/a&gt; (JS humor), Ruby under a microscope intro &lt;a href=&quot;http://www.youtube.com/watch?feature=player<em>embedded&amp;amp;v=0npv906IQag&quot;&gt;video&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In our discussion about Clojure macros Ronen mentioned &lt;a href=&quot;https://github.com/ztellman/sleight&quot;&gt;sleight&lt;/a&gt; for global macro application.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In the news we covered:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;LLVM gets loop &lt;a href=&quot;http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=MTIxNTY&quot;&gt;vectorizer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LLVM gets loop &lt;a href=&quot;http://www.phoronix.com/scan.php?page=news</em>item&amp;amp;px=MTIxNTY&quot;&gt;vectorizer&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://mail.openjdk.java.net/pipermail/announce/2012-November/000139.html&quot;&gt;Nashorn&lt;/a&gt; JVM javascript engine is out (replacing Rhino).&lt;/p&gt;
 &lt;p&gt;Clojure 1.5 rc 1 is out&lt;/p&gt;
 &lt;p&gt;Scala 2.10 is (almost) out&lt;/p&gt;
-</content>
-</entry>
-<entry>
+</description>
+</item>
+<item>
 <title>Yesod</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2012-10/lambda-pod-yesod-episode.html</link>
-<updated>2012-10-26T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2012-10/lambda-pod-yesod-episode.html</id>
-<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+<pubDate>2012-10-26T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our fifth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-5.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Interview with &lt;a href=&quot;http://www.snoyman.com/&quot;&gt;Michael Snoyman&lt;/a&gt; Lead developer of the &lt;a href=&quot;http://www.yesodweb.com/&quot;&gt;Yesod&lt;/a&gt; Web Framework.&lt;/p&gt;
@@ -115,14 +118,15 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 &lt;p&gt;&lt;a href=&quot;https://github.com/Datomic/codeq&quot;&gt;Codeq&lt;/a&gt; datastore for Clojure code based on git repository import, its based on &lt;a href=&quot;http://www.datomic.com/&quot;&gt;Datomic&lt;/a&gt; which runs also on &lt;a href=&quot;http://aws.amazon.com/dynamodb/&quot;&gt;Dynamo DB&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;JDK 8 will add OpenCL integration &lt;a href=&quot;http://www.google.com/url?q=http%3A%2F%2Fwww.extremetech.com%2Fcomputing%2F137628-project-sumatra-improves-java-performance-with-opencl-graphics-card-acceleration&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNHomdER-TzIUVrixl1N5M-FSZi-UA&quot;&gt;built in&lt;/a&gt;, there are a couple existing projects like  &lt;a href=&quot;https://github.com/pcpratts/rootbeer1&quot;&gt;rootbeer1&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://getprismatic.com/news/home&quot;&gt;Prismatic&lt;/a&gt; has created &lt;a href=&quot;http://blog.getprismatic.com/blog/2012/10/1/prismatics-graph-at-strange-loop.html&quot;&gt;Graph&lt;/a&gt; its not open source, &lt;a href=&quot;https://github.com/stuartsierra/flow&quot;&gt;Flow&lt;/a&gt; is a similar open source implementation.&lt;/p&gt;
-</content>
-</entry>
-<entry>
+</description>
+</item>
+<item>
 <title>Azul</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2012-08/lambda-pod-azul-episode.html</link>
-<updated>2012-08-18T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2012-08/lambda-pod-azul-episode.html</id>
-<content type="html">&lt;hr /&gt;
+<pubDate>2012-08-18T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;hr /&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our forth &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-4.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -139,14 +143,15 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 &lt;p&gt;&lt;a href=&quot;http://www.infoq.com/articles/new-groovy-20&quot;&gt;Groovy 2.0&lt;/a&gt;, &lt;a href=&quot;http://joxa.org/&quot;&gt;Joxa&lt;/a&gt;, project Jigsaw &lt;a href=&quot;http://www.infoworld.com/d/application-development/project-jigsaw-delayed-until-java-9-198007&quot;&gt;delayed&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Open source Architecture &lt;a href=&quot;http://www.aosabook.org/en/nginx.html&quot;&gt;Nginx&lt;/a&gt; chapter.&lt;/p&gt;
 &lt;p&gt;Akka &lt;a href=&quot;https://github.com/eligosource/eventsourced&quot;&gt;eventsource&lt;/a&gt; library.&lt;/p&gt;
-</content>
-</entry>
-<entry>
+</description>
+</item>
+<item>
 <title>Kotlin</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2012-07/lambda-pod-kotlin-episode.html</link>
-<updated>2012-07-05T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2012-07/lambda-pod-kotlin-episode.html</id>
-<content type="html">&lt;hr /&gt;
+<pubDate>2012-07-05T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;hr /&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our third &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-3.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -160,20 +165,21 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 &lt;ul&gt;
 &lt;li&gt;In the news we covered:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/pub?id=1CMz_MEQA8oPcGw9oaFdq_KYYFB_5qZjsDYYwuXfZhBU&amp;amp;pli=1&quot;&gt;Akka 2.2 roadmap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/pub?id=1CMz<em>MEQA8oPcGw9oaFdq</em>KYYFB_5qZjsDYYwuXfZhBU&amp;amp;pli=1&quot;&gt;Akka 2.2 roadmap&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://permalink.gmane.org/gmane.comp.java.openjdk.core-libs.devel/10361&quot;&gt;hash32&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/lvivski/start&quot;&gt;Dart start&lt;/a&gt; web server.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://patshaughnessy.net/2012/5/9/one-chapter-from-my-upcoming-ebook-ruby-under-a-microscope&quot;&gt;Ruby under microscope&lt;/a&gt; ebook.&lt;/p&gt;
 &lt;p&gt;Gilad notes on &lt;a href=&quot;http://gbracha.blogspot.co.il/2012/06/source-control-freak.html&quot;&gt;SCM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/luvit/luvit/&quot;&gt;luvit&lt;/a&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
+</description>
+</item>
+<item>
 <title>Dart</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2012-05/lambda-pod-dart-episode.html</link>
-<updated>2012-05-13T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2012-05/lambda-pod-dart-episode.html</id>
-<content type="html">&lt;hr /&gt;
+<pubDate>2012-05-13T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;hr /&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our second &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-2.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
@@ -184,14 +190,15 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 &lt;li&gt;&lt;p&gt;Reversim (an awesome podcast) hosted Ido Green about Dart from the users perspective, grab it &lt;a href=&quot;http://www.reversim.com/2012/05/140-dart-with-ido-green.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content>
-</entry>
-<entry>
+</description>
+</item>
+<item>
 <title>Lambdapod introduction</title>
 <link>http://narkisr.github.io/lambda-pod/posts/2012-04/lambda-pod-introduction-episode.html</link>
-<updated>2012-04-13T00:00:00</updated>
-<id>http://narkisr.github.io/lambda-pod/posts/2012-04/lambda-pod-introduction-episode.html</id>
-<content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+<pubDate>2012-04-13T00:00:00</pubDate>
+<author>narkisr@narkisr.com</author>
+<guid></guid>
+<description>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This is our first &lt;a href=&quot;http://dl.dropbox.com/u/116845/lambda-pod-1-v2.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Introduction and why &lt;b&gt;Lambda pod&lt;/b&gt; has a right to exist.&lt;/p&gt;
@@ -209,7 +216,7 @@ He also worked with &lt;a href=&quot;http://www.virtualenv.org/&quot;&gt;virtual
 &lt;li&gt;&lt;p&gt;Golang first version &lt;a href=&quot;http://blog.golang.org/2012/03/go-version-1-is-released.html&quot;&gt;out&lt;/a&gt;, the next sayeret talk will be on &lt;a href=&quot;http://www.meetup.com/saylambda/events/59049672/&quot;&gt;Golang&lt;/a&gt;, &lt;a href=&quot;http://www.meetup.com/saylambda/events/59822632/&quot;&gt;Dart&lt;/a&gt; will follow.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content>
-</entry>
-
-</feed>
+</description>
+</item></p>
+<p></channel>
+</rss></p>
