@@ -1,14 +1,7 @@
-# Jekyll-Bootstrap
+# Intro 
+Lambdapod podcast webpages
 
-The quickest and most hassle-free way to get your new Jekyll powered website up and running.
-100% compatible with GitHub pages.
+# License
 
-<http://jekyllbootstrap.com>
+Lambdapod website by Ronen Narkis is licensed under a [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/) Based on a work at narkisr.com
 
-## Development
-
-Development is active! 
-
-## License
-
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
