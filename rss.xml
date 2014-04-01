@@ -15,7 +15,7 @@
 <author>narkisr@narkisr.com</author>
 <guid></guid>
 <description>&lt;h2&gt;Overview&lt;/h2&gt;
-&lt;p&gt;This is our ninth &lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/lambda-pod/lambda-pod-9.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
+&lt;p&gt;This is our ninth &lt;a href=&quot;http://s3-eu-west-1.amazonaws.com/lambda-pod/lambda-pod-9.mp3&quot;&gt;episode!&lt;/a&gt; in it we cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;An interview with &lt;a href=&quot;http://blog.plataformatec.com.br/&quot;&gt;Jose Valim&lt;/a&gt; about &lt;a href=&quot;http://elixir-lang.org/&quot;&gt;Elixir&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
@@ -28,9 +28,9 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/narkisr/octo&quot;&gt;Octo&lt;/a&gt; a tiny Elixir project for backing up github.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/narkisr/puppet-backup&quot;&gt;Puppet Backup&lt;/a&gt; module and &lt;a href=&quot;https://github.com/opskeleton/opskeleton&quot;&gt;Opskeleton&lt;/a&gt; testing support were mentioned also.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;In the news we covered:
-&lt;a href=&quot;http://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go#btnNext&quot;&gt;Docker and Go&lt;/a&gt; presentation.&lt;/li&gt;
+&lt;li&gt;In the news we covered:&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go#btnNext&quot;&gt;Docker and Go&lt;/a&gt; presentation.&lt;/p&gt;
 &lt;p&gt;Clojure slow startup &lt;a href=&quot;http://nicholaskariniemi.github.io/2014/02/25/clojure-bootstrapping.html&quot;&gt;analysis&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Clojure web security &lt;a href=&quot;https://www.youtube.com/watch?v=CBL59w7fXw4&quot;&gt;sucks&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Can Java 8 replace &lt;a href=&quot;http://ahmedsoliman.com/2014/03/26/will-java-8-kill-scala/?utm<em>content=buffer969c6&amp;amp;utm</em>medium=social&amp;amp;utm<em>source=twitter.com&amp;amp;utm</em>campaign=buffer&quot;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
