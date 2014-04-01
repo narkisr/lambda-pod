@@ -6,7 +6,7 @@
 
 ## Overview 
 
-This is our ninth [episode!](https://s3-eu-west-1.amazonaws.com/lambda-pod/lambda-pod-9.mp3) in it we cover: 
+This is our ninth [episode!](http://s3-eu-west-1.amazonaws.com/lambda-pod/lambda-pod-9.mp3) in it we cover: 
 
  * An interview with [Jose Valim](http://blog.plataformatec.com.br/) about [Elixir](http://elixir-lang.org/).
 
